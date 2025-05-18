@@ -39,15 +39,14 @@ More details: [High Score README](Score_Manager/README.md)
    
 2. ## 🚀 How to Run the Program Files
 
-# 🚀 How to Run the Program Files
 
-Before running any of the program files, make sure to **navigate to the folder** containing the file you want to run.
 
-For example, if your files are in folders named `Interest_Calculator` and `Score_Manager`, follow these steps:
+ make sure to **navigate to the folder** containing the file you want to run.
+
 
 1. 🖥️ **Open your terminal or command prompt.**
 
-2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the folder:
+2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the project folder:
 
    ```bash
    cd Interest_Calculator
@@ -56,7 +55,9 @@ For example, if your files are in folders named `Interest_Calculator` and `Score
    ```bash
    cd Score_Manager
    ```
-3. ▶️ **To run the program, follow the README file located inside the project folder you navigated to.**
+3. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
+
+
    
 
 
