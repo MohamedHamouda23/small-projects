@@ -36,4 +36,19 @@ More details: [High Score README](Score_Manager/README.md)
 1. Clone this repository  
    ```bash
    git clone  https://github.com/MohamedHamouda23/small-py-projects
+2. ## 🚀 How to Run the Program Files
+
+Before running any of the program files, **make sure to navigate to the folder containing the file** you want to run.
+
+For example, if your files are in folders named `Deposit` and `Rate_and_Period`, do the following:
+
+1. Open your terminal or command prompt.
+2. Navigate to the folder containing to folders
+  either:
+   ```bash
+   cd Deposit
+      ```
+
+
+   
 
