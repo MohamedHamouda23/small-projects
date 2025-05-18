@@ -27,14 +27,28 @@ A beginner-friendly Python program to **add**, **search**, and **update** player
 
 ### ✏️ Updating a Score  
 ![Update Score](assets/Updating.png)
+
+
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run  
 
-1. Make sure Python 3 is installed  
-2. Download or clone this repository  
-3. Open a terminal in the project directory  
-4. Run the script:
+**▶️ Run the program**:
 
 ```bash
-python high_score_manager.py
+python3 src/main.py
+```
+
+<br>
+
+## 📚 References & Documentation
+
+For full technical insights, issues addressed, evaluation, and testing process, please refer to the following documents located in the [doc folder](docs/) directory:
+
+- 📄 [Technical Overview](docs/Technical%20Overview.pdf)  
+- 🧪 [Testing Process](docs/testing%20process.pdf)  
+- 📊 [Evaluation](docs/Evaluation.pdf)  
+- 🔗 [References](docs/References.pdf)  
+- 🔁 [Flowchart](docs/flowchart.pdf)  
+
+
