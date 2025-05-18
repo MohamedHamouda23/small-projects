@@ -19,11 +19,11 @@ A beginner-friendly Python program to **add**, **search**, and **update** player
 ### 📂 Adding a Score File (TXT)  
 ![Score File](assets/Score%20File.png)
 
-### ➕ Adding a Score  
-![Add Score](assets/Adding.png)
-
 ### 🔍 Searching for a Player  
 ![Search Player](assets/Searching.png)
+
+### ➕ Adding a Score  
+![Add Score](assets/Adding.png)
 
 ### ✏️ Updating a Score  
 ![Update Score](assets/Updating.png)
