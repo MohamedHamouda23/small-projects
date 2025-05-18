@@ -4,15 +4,15 @@
 
 This repository hosts **two small projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, and data manipulation. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
 
-- 🧮 Simple Calculator Interest  
+- 🧮 Simple Interest Calculator
 - 🏆 High Score Score
 
 ## 🚀 Projects
 
-### 1. 🧮 Simple Calculator Interest  
+### 1. 🧮 Simple Interest Calculator
 A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
 
-More details: [Simple Calculator Interest README](Calculator Interest/README.md)
+More details: [Simple Interest Calculator README](Interest Calculator/README.md)
 
 ### 2. 🏆 High Score Score  
 A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
