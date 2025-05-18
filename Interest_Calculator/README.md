@@ -27,7 +27,7 @@ This Python program helps users understand how their deposit grows over time �
 
 ## 🚀 How to Run  
 
-3. **▶️ Run the program**:
+**▶️ Run the program**:
 
 ```bash
 python3 src/main.py
