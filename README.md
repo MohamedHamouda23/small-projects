@@ -17,7 +17,7 @@ More details: [Simple Interest Calculator README](Interest_Calculator/README.md)
 ### 2. 🏆 High Score Score  
 A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
 
-More details: [High Score Score README](Score Manager/README.md)
+More details: [High Score README](Score_Manager/README.md)
 
 ## 🛠 How to Use
 
