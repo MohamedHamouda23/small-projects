@@ -26,7 +26,6 @@ This Python program helps users understand how their deposit grows over time �
 ---
 
 ## 🚀 How to Run  
-1. **🧰 Make sure you have Python installed** (Python 3.6+ recommended).  
 
 3. **▶️ Run the program**:
 
