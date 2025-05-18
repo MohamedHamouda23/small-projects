@@ -35,13 +35,11 @@ More details: [High Score README](Score_Manager/README.md)
 
 1. **🧰 Make sure you have Python installed** (Python 3.6+ recommended).
    
-2. **Clone this repository:**
+2. **🔄 Clone this repository:**
 ```bash
    git clone  https://github.com/MohamedHamouda23/small-py-projects
 ```
 
-
-   
 3. ## 🚀 How to Run the Program Files
 
  make sure to **navigate to the folder** containing the file you want to run:
