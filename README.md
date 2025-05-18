@@ -36,18 +36,28 @@ More details: [High Score README](Score_Manager/README.md)
 1. Clone this repository  
    ```bash
    git clone  https://github.com/MohamedHamouda23/small-py-projects
+   
 2. ## 🚀 How to Run the Program Files
 
-Before running any of the program files, **make sure to navigate to the folder containing the file** you want to run.
+# 🚀 How to Run the Program Files
 
-For example, if your files are in folders named `Deposit` and `Rate_and_Period`, do the following:
+Before running any of the program files, make sure to **navigate to the folder** containing the file you want to run.
 
-1. Open your terminal or command prompt.
-2. Navigate to the folder containing to folders
-  either:
+For example, if your files are in folders named `Interest_Calculator` and `Score_Manager`, follow these steps:
+
+1. 🖥️ **Open your terminal or command prompt.**
+
+2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the folder:
+
    ```bash
-   cd Deposit
-      ```
+   cd Interest_Calculator
+     ```
+   or 
+   ```bash
+   cd Score_Manager
+   ```
+3. ▶️ **To run the program, follow the README file located inside the project folder you navigated to.**
+   
 
 
    
