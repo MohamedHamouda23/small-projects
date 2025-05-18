@@ -1,40 +1,27 @@
-# 🏆 High Score Manager
+## 🛠 How to Use
 
-A beginner-friendly Python program to **add**, **search**, and **update** player scores using a simple file-based system. All scores are stored in a `.txt` file and sorted automatically!
+1. Clone this repository  
+   ```bash
+   git clone  https://github.com/MohamedHamouda23/small-py-projects
+   
+2. ## 🚀 How to Run the Program Files
 
----
 
-## 🧠 Features
 
-- ✅ Add new players and their scores
-- ❌ Prevents duplicate entries
-- 🔍 Search for a player's score by name
-- ✏️ Update existing scores easily
-- 🔢 Automatically sorts scores (highest to lowest)
-- 🛡️ Input validation for clean data
+ make sure to **navigate to the folder** containing the file you want to run.
 
----
-## 📸 Screenshots
 
-### 📂 Adding a Score File (TXT)  
-![Score File](assets/add_score.png)
+1. 🖥️ **Open your terminal or command prompt.**
 
-### ➕ Adding a Score  
-![Add Score](assets/Adding.png)
+2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the project folder:
 
-### 🔍 Searching for a Player  
-![Search Player](assets/Searching.png)
-
-### ✏️ Updating a Score  
-![Update Score](assets/Updating.png)
----
-
-## 🚀 How to Run
-
-1. Make sure Python 3 is installed  
-2. Download or clone this repository  
-3. Open a terminal in the project directory  
-4. Run the script:
 
 ```bash
-python high_score_manager.py
+cd Interest_Calculator
+```
+or 
+```bash
+cd Score_Manager
+```
+3. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
+
