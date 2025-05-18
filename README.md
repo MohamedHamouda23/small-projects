@@ -48,13 +48,13 @@ More details: [High Score README](Score_Manager/README.md)
 
 2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the project folder:
 
-   ```bash
-   cd Interest_Calculator
-     ```
-   or 
-   ```bash
-   cd Score_Manager
-   ```
+```bash
+cd Interest_Calculator
+```
+or 
+```bash
+cd Score_Manager
+```
 3. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
 
 
