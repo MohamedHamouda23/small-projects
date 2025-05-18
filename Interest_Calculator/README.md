@@ -19,7 +19,7 @@ This Python program helps users understand how their deposit grows over time �
 ![Deposit Step](assets/Deposit%20Entry.png)
 
 ### 📉 Rate and Period Entry
-![Rate and Period](assets/Rate%20and%20Period.png)
+![Rate and Period](assets/Rate_and_Period.png)
 
 ### 📊 Final Output Plan
 ![Output Plan](assets/Output%20Plan.png)
