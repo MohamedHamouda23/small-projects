@@ -1,27 +1,55 @@
-# 📁 python projects
+# 💰 Deposit Assistance Program
 
-## 📋 Overview
+This Python program helps users understand how their deposit grows over time 📈 using a set interest rate and period. It provides helpful prompts and performs input validation to ensure accurate calculations.
 
-This repository hosts **two small projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, and data manipulation. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
+---
 
-- 🧮 Simple Calculator Interest  
-- 🏆 High Score Score
+## 🧠 What It Does
 
-## 🚀 Projects
+- Guides users through a **secure deposit process**
+- Validates inputs with up to **3 attempts**
+- Calculates **compound interest** over a number of years
+- Displays **yearly growth** and final balance
 
-### 1. 🧮 Simple Calculator Interest  
-A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
+---
+## 📸 Screenshots
 
-More details: [Simple Calculator Interest README](Calculator Interest/README.md)
 
-### 2. 🏆 High Score Score  
-A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
+### 📝 Deposit Step
+![Deposit Step](assets/Deposit%20Entry.png)
 
-More details: [High Score Score README](Score Manager/README.md)
+### 📉 Rate and Period Entry
+![Rate and Period](assets/Rate%20and%20Period.png)
 
-## 🛠 How to Use
+### 📊 Final Output Plan
+![Output Plan](assets/Output%20Plan.png)
 
-1. Clone this repository  
-   ```bash
-   git clone  https://github.com/MohamedHamouda23/small-py-projects
+---
+
+## 🚀 How to Use
+
+1. 🟢 **Start the Program**  
+   When prompted:  
+   Type `1` to request deposit assistance.  
+   ❗Any other input will exit the program.
+
+2. 💵 **Enter Deposit Amount**  
+   - Must be **£100 or more**
+   - Input must be a **number**
+   - You have **3 attempts**
+
+3. 📊 **Enter Interest Rate**  
+   - Must be between **0% and 25%**
+   - Input must be a **number**
+   - You have **3 attempts**
+
+4. ⏳ **Enter Interest Period**  
+   - Must be between **1 and 10 years**
+   - Input must be a **whole number**
+   - You have **3 attempts**
+
+5. 📈 **See Growth Over Time**  
+   The program will show the **deposit growth** for each year and the **final balance** at the end of the chosen period.
+
+---
 
