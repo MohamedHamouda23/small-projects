@@ -2,7 +2,7 @@
 
 This Python program helps users understand how their deposit grows over time 📈 using a set interest rate and period. It provides helpful prompts and performs input validation to ensure accurate calculations.
 
----
+
 
 ## 🧠 What It Does
 
