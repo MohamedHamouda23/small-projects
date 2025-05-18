@@ -42,7 +42,6 @@ python3 src/main.py
 For full technical insights, issues addressed, evaluation, and testing process, please refer to the following documents located in the [doc folder](./doc/) directory:
 
 - 📄 [Technical Overview](docs/Technical%20Overview.pdf)  
-- 🐞 [Issues and Fixes](docs/Issues%20and%20Fixes.pdf)  
 - 🧪 [Testing Process](docs/Testing%20process.pdf)  
 - 📊 [Evaluation](docs/Evaluation.pdf)  
 - 🔗 [References](docs/References.pdf)  
