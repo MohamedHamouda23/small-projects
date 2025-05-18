@@ -26,30 +26,24 @@ This Python program helps users understand how their deposit grows over time �
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run  
+1. **🧰 Make sure you have Python installed** (Python 3.6+ recommended).  
 
-1. 🟢 **Start the Program**  
-   When prompted:  
-   Type `1` to request deposit assistance.  
-   ❗Any other input will exit the program.
+3. **▶️ Run the program**:
 
-2. 💵 **Enter Deposit Amount**  
-   - Must be **£100 or more**
-   - Input must be a **number**
-   - You have **3 attempts**
+```bash
+python3 src/main.py
+```
 
-3. 📊 **Enter Interest Rate**  
-   - Must be between **0% and 25%**
-   - Input must be a **number**
-   - You have **3 attempts**
+<br>
 
-4. ⏳ **Enter Interest Period**  
-   - Must be between **1 and 10 years**
-   - Input must be a **whole number**
-   - You have **3 attempts**
+## 📚 References & Documentation
 
-5. 📈 **See Growth Over Time**  
-   The program will show the **deposit growth** for each year and the **final balance** at the end of the chosen period.
+For full technical insights, issues addressed, evaluation, and testing process, please refer to the following documents located in the [doc folder](./doc/) directory:
 
----
-
+- 📄 [Technical Overview](./doc/Technical%20Overview.pdf)  
+- 🐞 [Issues and Fixes](./doc/Issues%20and%20Fixes.pdf)  
+- 🧪 [Testing Process](./doc/Testing%20process.pdf)  
+- 📊 [Evaluation](./doc/Evaluation.pdf)  
+- 🔗 [References](./doc/References.pdf)  
+- 🔁 [Flowchart](./doc/Flowchart.pdf)  
