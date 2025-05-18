@@ -11,7 +11,6 @@ This Python program helps users understand how their deposit grows over time ðŸ“
 - Calculates **compound interest** over a number of years
 - Displays **yearly growth** and final balance
 
----
 ## ðŸ“¸ Screenshots
 
 
