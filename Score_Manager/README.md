@@ -17,7 +17,7 @@ A beginner-friendly Python program to **add**, **search**, and **update** player
 ## 📸 Screenshots
 
 ### 📂 Adding a Score File (TXT)  
-![Score File](assets/Score_File.png)
+![Score File](assets/Score%20File.png)
 
 ### ➕ Adding a Score  
 ![Add Score](assets/Adding.png)
