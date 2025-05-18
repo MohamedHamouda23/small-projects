@@ -1,65 +1,40 @@
-# 📚 About This Project
+# 🏆 High Score Manager
 
-This project was originally developed as part of a university assignment at the University of the West of England (UWE) 🏫 and is now shared as part of my personal portfolio and resume.
+A beginner-friendly Python program to **add**, **search**, and **update** player scores using a simple file-based system. All scores are stored in a `.txt` file and sorted automatically!
 
-🛠️ It's here to showcase my work and to help others learn — you're welcome to explore the structure, coding style, and problem-solving approach for educational purposes.
+---
 
-🚫 Please don’t copy or submit it as your own — that would go against academic integrity policies and could be considered plagiarism.
+## 🧠 Features
 
-👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
+- ✅ Add new players and their scores
+- ❌ Prevents duplicate entries
+- 🔍 Search for a player's score by name
+- ✏️ Update existing scores easily
+- 🔢 Automatically sorts scores (highest to lowest)
+- 🛡️ Input validation for clean data
 
-<br>
+---
+## 📸 Screenshots
 
-# 📁 python projects
+### 📂 Adding a Score File (TXT)  
+![Score File](assets/add_score.png)
 
-## 📋 Overview
+### ➕ Adding a Score  
+![Add Score](assets/Adding.png)
 
-This repository hosts **two small projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, and data manipulation. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
+### 🔍 Searching for a Player  
+![Search Player](assets/Searching.png)
 
-- 🧮 Simple Interest Calculator
-- 🏆 High Score Score
+### ✏️ Updating a Score  
+![Update Score](assets/Updating.png)
+---
 
-## 🚀 Projects
+## 🚀 How to Run
 
-### 1. 🧮 Simple Interest Calculator
-A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
-
-More details: [Simple Interest Calculator README](Interest_Calculator/README.md)
-
-### 2. 🏆 High Score Score  
-A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
-
-More details: [High Score README](Score_Manager/README.md)
-
-## 🛠 How to Use
-
-1. Clone this repository  
-   ```bash
-   git clone  https://github.com/MohamedHamouda23/small-py-projects
-   
-2. ## 🚀 How to Run the Program Files
-
-
-
- make sure to **navigate to the folder** containing the file you want to run.
-
-
-1. 🖥️ **Open your terminal or command prompt.**
-
-2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the project folder:
+1. Make sure Python 3 is installed  
+2. Download or clone this repository  
+3. Open a terminal in the project directory  
+4. Run the script:
 
 ```bash
-cd Interest_Calculator
-```
-or 
-```bash
-cd Score_Manager
-```
-3. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
-
-
-   
-
-
-   
-
+python high_score_manager.py
