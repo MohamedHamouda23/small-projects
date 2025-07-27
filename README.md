@@ -12,29 +12,29 @@ This project was originally developed as part of a university assignment at the 
 
 # 📁 Projects Overview
 
-This repository hosts **three small projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, data manipulation, and file management. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
+This repository hosts **three small python projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, data manipulation, and file management. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
 
-- 🧮 Simple Interest Calculator (Python)
-- 🏆 High Score Tracker (Python)
-- 📝 To-Do List (Task Manager) **(personal Project in C)**
+- 🧮 Simple Interest Calculator 
+- 🏆 High Score Tracker 
+- 📝 To-Do List (Task Manager) 
 
 ## 🚀 Projects
 
-### 1. 🧮 Simple Interest Calculator (Python)  
+### 1. 🧮 Simple Interest Calculator 
 A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
 
 More details: [Simple Interest Calculator README](Interest_Calculator/README.md)
 
 ---
 
-### 2. 🏆 High Score Tracker (Python)  
+### 2. 🏆 High Score Tracker 
 A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
 
 More details: [High Score README](Score_Manager/README.md)
 
 ---
 
-### 3. 📝 To-Do List (Task Manager) **(Written in C)**  
+### 3. 📝 To-Do List (Task Manager) **(personal project)**  
 A console-based task manager that allows adding, removing, and marking tasks as completed, demonstrating file handling, data validation, and user input processing.
 
 More details: [To do list README](To_do_list/README.md)
@@ -45,7 +45,6 @@ More details: [To do list README](To_do_list/README.md)
 
 1. **🧰 Make sure you have the necessary environment installed:**  
    - Python 3.6+ for the first two projects.  
-   - A C compiler (e.g., GCC) for the To-Do List project.
    
 2. **🔄 Clone this repository:**
 ```bash
