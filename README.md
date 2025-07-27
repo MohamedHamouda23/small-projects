@@ -4,24 +4,22 @@ This repository contains **two folders of beginner-friendly mini programs** writ
 
 They are designed to demonstrate core programming concepts such as input/output, control structures, file handling, and basic algorithms.
 
----
+
 
 ## 📁 Folder Structure
 
-mini-projects/
-│
-├── python-projects/ # Contains Python mini programs
+small-projects/
+│README.md
+├── Python/ 
 │ ├── calculator.py
 │ ├── word_game.py
-│ └── ...
+│ └──  
 │
-├── c-projects/ # Contains C mini programs
+├── C/ 
 │ ├── to_do_list.c
-│ ├── snake_game.c
-│ └── ...
+│ ├── 
+│ └── 
 
-
----
 
 ## 💡 What's Inside?
 
