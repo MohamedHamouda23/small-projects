@@ -18,7 +18,7 @@ They are designed to demonstrate core programming concepts such as input/output,
 ### 1. 🏆 Python projects
 Simple CLI-based programs, easy to understand, use file-based data handling, and written in a clean, beginner-friendly style.
 
-More details: [Python README](Python/README.md)
+More details: [Python README](assets/Python/README.md)
 
 
 
