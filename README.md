@@ -8,7 +8,7 @@ They are designed to demonstrate core programming concepts such as input/output,
 
 ## 📁 Folder Structure
 
-[Folder Structure](folder%20Structure)
+[Folder Structure](folder-Structure)
 
 
 ## 💡 What's Inside?
