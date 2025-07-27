@@ -13,7 +13,7 @@ A simple Python program to manage tasks from the command line. This tool allows 
 - 🔁 Persistent storage across sessions
 - 🧱 Written using basic file handling and object-oriented principles
 
----
+
 
 ## 📚 Concepts Covered
 
@@ -23,7 +23,7 @@ A simple Python program to manage tasks from the command line. This tool allows 
 - String and list manipulation
 - User input handling and menu systems
 
----
+
 ## 📸 Screenshots
 
 ### 📂 Adding a Score File (TXT)  
@@ -39,7 +39,7 @@ A simple Python program to manage tasks from the command line. This tool allows 
 ![Update Score](assets/Updating.png)
 
 
----
+
 
 ## 🚀 How to Run  
 
