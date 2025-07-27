@@ -8,17 +8,7 @@ They are designed to demonstrate core programming concepts such as input/output,
 
 ## 📁 Folder Structure
 
-small-projects/
-│README.md
-├── Python/ 
-│ ├── calculator.py
-│ ├── word_game.py
-│ └──  
-│
-├── C/ 
-│ ├── to_do_list.c
-│ ├── 
-│ └── 
+[Folder Structure](folder%20Structure)
 
 
 ## 💡 What's Inside?
