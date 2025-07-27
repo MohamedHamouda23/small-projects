@@ -1,6 +1,6 @@
 # ✅ To-Do List Manager 
 
-A simple Python program to manage tasks from the command line. This tool allows users to add, view, complete, and delete to-do items using a text file for storage.
+A simple Python program to manage tasks from the command line. This tool allows users to add, view, complete, and delete to-do items using a csv file for storage.
 
 
 ## 🧠 Features
@@ -9,7 +9,7 @@ A simple Python program to manage tasks from the command line. This tool allows 
 - 📋 View all tasks in a numbered list
 - ✅ Mark tasks as completed
 - ❌ Delete tasks by number
-- 💾 Saves all tasks in a `todo.txt` file
+- 💾 Saves all tasks in a csv file
 - 🔁 Persistent storage across sessions
 - 🧱 Written using basic file handling and object-oriented principles
 
@@ -26,17 +26,17 @@ A simple Python program to manage tasks from the command line. This tool allows 
 
 ## 📸 Screenshots
 
-### 📂 Adding a Score File (TXT)  
-![Score File](assets/Score%20File.png)
+### 📂 A task File (csv)  
+![task File](assets/task%20file.png)
 
-### 🔍 Searching for a Player  
-![Search Player](assets/Searching.png)
+### ➕ Add task
+![Add task](assets/Adding.png)
 
-### ➕ Adding a Score  
-![Add Score](assets/Adding.png)
+### ❌ Remove task
+![Remove task](assets/Removing.png)
 
-### ✏️ Updating a Score  
-![Update Score](assets/Updating.png)
+### ✏️ Mark task
+![Mark task](assets/Marking.png)
 
 
 
