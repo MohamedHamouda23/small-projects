@@ -23,21 +23,21 @@ This repository hosts **three small python projects** designed to demonstrate ba
 ### 1. 🧮 Simple Interest Calculator 
 A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
 
-More details: [Simple Interest Calculator README](Interest_Calculator/README.md)
+More details: [Simple Interest Calculator README](Python/Interest_Calculator/README.md)
 
 
 
 ### 2. 🏆 High Score Tracker 
 A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
 
-More details: [High Score README](Score_Manager/README.md)
+More details: [High Score README](Python/Score_Manager/README.md)
 
 
 
 ### 3. 📝 To-Do List (Task Manager) **(personal project)**  
 A console-based task manager that allows adding, removing, and marking tasks as completed, demonstrating file handling, data validation, and user input processing.
 
-More details: [To do list README](To_do_list/README.md)
+More details: [To do list README](Python/To_do_list/README.md)
 
 
 
