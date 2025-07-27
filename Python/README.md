@@ -44,7 +44,7 @@ More details: [To do list README](To_do_list/README.md)
 ## 🛠 How to Use
 
 1. **🧰 Make sure you have the necessary environment installed:**  
-   - Python 3.6+ for the first two projects.  
+   - Python 3.6+ for the projects.  
    
 2. **🔄 Clone this repository:**
 ```bash
