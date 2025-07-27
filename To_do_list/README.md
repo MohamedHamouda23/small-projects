@@ -1,8 +1,7 @@
-# ✅ To-Do List Manager (Python)
+# ✅ To-Do List Manager 
 
 A simple Python program to manage tasks from the command line. This tool allows users to add, view, complete, and delete to-do items using a text file for storage.
 
----
 
 ## 🧠 Features
 
