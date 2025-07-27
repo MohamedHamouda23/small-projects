@@ -37,7 +37,7 @@ More details: [High Score README](Score_Manager/README.md)
 ### 3. 📝 To-Do List (Task Manager) **(Written in C)**  
 A console-based task manager that allows adding, removing, and marking tasks as completed, demonstrating file handling, data validation, and user input processing.
 
-More details: [High Score README](Score_Manager/README.md)
+More details: [To do list README](To_do_list/README.md)
 
 ---
 
@@ -72,6 +72,6 @@ cd Score_Manager
 or
 
 ```bash
-cd Score_Manager
+cd  To_do_list
 ```
 4. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
