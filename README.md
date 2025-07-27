@@ -8,7 +8,7 @@ They are designed to demonstrate core programming concepts such as input/output,
 
 ## 📁 Folder Structure
 
-![Folder Structure](assets/folder-structure.png)
+![Folder Structure](assets/folder-Structure.png)
 
 
 ## 💡 What's Inside?
