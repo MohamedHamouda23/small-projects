@@ -1,35 +1,51 @@
 # 📚 About This Project
 
-This project was originally developed as part of a university assignment at the University of the West of England (UWE) 🏫 and is now shared as part of my personal portfolio and resume.
+This project was originally developed as part of a university assignment at the **University of the West of England (UWE)** 🏫 and is now shared as part of my **personal portfolio and resume**. 
 
 🛠️ It's here to showcase my work and to help others learn — you're welcome to explore the structure, coding style, and problem-solving approach for educational purposes.
 
-🚫 Please don’t copy or submit it as your own — that would go against academic integrity policies and could be considered plagiarism.
+🚫 **Please don’t copy or submit it as your own** — that would go against academic integrity policies and could be considered plagiarism.
 
-👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
+👍 **Feel free to use it for inspiration**, learn from it, and use what you learn to build something even better!
 
-<br>
+---
 
-# 📁 python projects
+# 📁 Python Projects
 
 ## 📋 Overview
 
-This repository hosts **two small projects** designed to demonstrate basic programming skills such as user input handling, arithmetic operations, and data manipulation. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions:
+This repository hosts **three small Python projects** designed to demonstrate programming skills such as user input handling, validation, file management, and logic implementation. Each project is self-contained within this repository and demonstrates different fundamental programming concepts:
 
-- 🧮 Simple Interest Calculator
-- 🏆 High Score Score
+- 🧮 **Simple Interest Calculator** *(University Assignment)*  
+- 🏆 **High Score Tracker** *(University Assignment)*  
+- 📝 **To-Do List (Task Manager)** *(Personal Project)*
 
-## 🚀 Projects
+---
 
-### 1. 🧮 Simple Interest Calculator
-A simple calculator that computes interest based on user input values. This project covers basic arithmetic operations and user input processing.
+## 🚀 Projects Description
 
-More details: [Simple Interest Calculator README](Interest_Calculator/README.md)
+### 1. 🧮 Simple Interest Calculator  
+A simple command-line program that calculates the simple interest based on user inputs for principal, rate, and time.  
+**Skills demonstrated:** Arithmetic operations, user input handling.
 
-### 2. 🏆 High Score Score  
-A program that tracks and updates a high score from user inputs, illustrating the use of loops, conditionals, and variable management.
+---
 
-More details: [High Score README](Score_Manager/README.md)
+### 2. 🏆 High Score Tracker  
+A program that tracks and updates a high score entered by users. It demonstrates use of loops, conditionals, and variable management.  
+**Skills demonstrated:** Conditionals, loops, variable storage.
+
+---
+
+### 3. 📝 To-Do List (Task Manager)  
+A console-based task manager that lets users add, remove, and mark tasks as completed or uncompleted. Tasks are stored persistently in a CSV file.  
+**Features:**  
+- Add tasks with priority, category, due date, and completion status  
+- Remove tasks by name and category  
+- Toggle completion status of tasks  
+- CSV file handling for data persistence  
+**Skills demonstrated:** File handling, data validation, object-oriented programming, user input validation.
+
+---
 
 ## 🛠 How to Use
 
@@ -56,6 +72,11 @@ cd Interest_Calculator
 or 
 ```bash
 cd Score_Manager
+```
+or 
+
+```bash
+cd To_do_list
 ```
 4. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
 
