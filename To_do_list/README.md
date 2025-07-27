@@ -27,7 +27,7 @@ A simple Python program to manage tasks from the command line. This tool allows 
 ## 📸 Screenshots
 
 ### 📂 A task File (csv)  
-![task File](assets/task%20file.png)
+![task File](assets/task_file.png)
 
 ### ➕ Add task
 ![Add task](assets/Adding.png)
