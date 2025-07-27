@@ -48,7 +48,7 @@ More details: [To do list README](To_do_list/README.md)
    
 2. **🔄 Clone this repository:**
 ```bash
-   git clone  https://github.com/MohamedHamouda23/small-py-projects
+   git clone  https://github.com/MohamedHamouda23/small-projects
 ```
 
 3. ## 🚀 How to Run the Program Files
