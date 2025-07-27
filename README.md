@@ -25,39 +25,49 @@ mini-projects/
 
 ## 💡 What's Inside?
 
-### ✅ Python Projects
-- Simple CLI-based programs
-- Focus on ease of understanding and file-based data handling
-- Written in a clean and beginner-friendly style
 
-### 🧠 C Projects
-- Console-based applications
-- Emphasize logic, pointers, and user interaction
-- Great for understanding memory and performance
 
----
+### 1. 🏆 Python projects
+Simple CLI-based programs, easy to understand, use file-based data handling, and written in a clean, beginner-friendly style.
 
-## 🚀 How to Run
+More details: [Python README](Python/README.md)
 
-### Python
-Make sure you have Python installed. Then run:
+
+
+### 2. 📝 C projects  
+Console-based applications that emphasize logic, pointers, and user interaction—great for understanding memory and performance.
+
+More details: [C README](C/README.md)
+
+
+
+## 🛠 How to Use
+
+1. **🧰 Make sure you have the necessary environment installed:**  
+   - Python 3.6+
+   - C compiler gcc
+   
+2. **🔄 Clone this repository:**
 ```bash
-python3 filename.py
-C
-Use a compiler like gcc:
+   git clone  https://github.com/MohamedHamouda23/small-projects
+```
 
-gcc filename.c -o program
-./program
+3. ## 🚀 How to Run the Program Files
 
-🎯 Purpose of This Repo
+ make sure to **navigate to the folder** containing the file you want to run:
 
-This repository is part of my personal learning journey in programming and computer science. It aims to:
 
-Reinforce basic programming skills in multiple languages
-Serve as a reference for small, practical coding problems
-Help other students or beginners by sharing real code examples
+1. 🖥️ **Open your terminal or command prompt.**
 
-📌 Notes
-All projects are written from scratch.
-Python and C were chosen to cover both high-level scripting and low-level systems programming.
-Feel free to explore, learn, and even contribute!
+2. 📂 **Navigate to the folder containing the needed projects** by running one of the commands below based on the project folder:
+
+
+```bash
+cd Python
+```
+or 
+```bash
+cd C
+```
+
+4. ▶️ **To run the program, follow the README instructions inside the project folder you navigated to.**
