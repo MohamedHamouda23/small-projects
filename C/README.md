@@ -1,6 +1,6 @@
 # 📚 About This Project
 
-This project was developed as a **personal learning exercise** while studying at the **University of the West of England (UWE)** 🏫 and is now shared as part of my personal portfolio and resume.
+This project was developed as a **personal learning exercise** during my self-study journey, with the goal of deepening my understanding of programming concepts through hands-on practice and real-world application.
 
 🛠️ It’s designed to demonstrate my skills in C programming — including file handling, struct usage, user input validation, and basic logic. You’re welcome to explore the structure, code style, and approach for educational purposes.
 
