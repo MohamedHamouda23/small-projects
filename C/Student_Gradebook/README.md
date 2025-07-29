@@ -38,6 +38,7 @@ Follow these steps to compile and run the program:
 
    ```bash
    cd app
+   ```
 
 3. 🛠️ Compile the program using gcc:
 
