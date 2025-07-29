@@ -13,9 +13,6 @@ This project was developed as a **personal learning exercise** during my self-st
 
 This repository hosts C projectw, each designed to demonstrate fundamental programming concepts. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions.
 
-## 🗂️ Included Projects
-
-### 💻 C Project:
 - 🎓 Student Grade Manager  
 
 
@@ -24,7 +21,7 @@ This repository hosts C projectw, each designed to demonstrate fundamental progr
 ### 🎓 Student Grade Manager  
 A console-based C program that lets you add student records, check highest and lowest grades, and determine pass/fail status, with data saved in a CSV file and input validation included.  
 
-More details: Student Grade Manager README.
+More details: [Student Grade Manager README](Student_Gradebook/README.md)
 
 
 # 🛠 How to Use
