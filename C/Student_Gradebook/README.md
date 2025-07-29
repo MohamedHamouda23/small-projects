@@ -39,10 +39,14 @@ Follow these steps to compile and run the program:
    ```bash
    cd app
    ```
-
 3. 🛠️ Compile the program using gcc:
 
-gcc -o student_manager main.c
+   ```bash
+gcc main.c -o output
+    ```
 
 4. ▶️ Run the compiled program:
+ 
+   ```bash
 ./student_manager
+    ```
