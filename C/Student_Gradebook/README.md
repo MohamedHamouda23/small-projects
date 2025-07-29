@@ -28,11 +28,20 @@ A beginner-friendly **C** program to **add students**, **record grades**, **chec
 ![Pass Fail](assets/Outcome.png)
 
 
-## 🚀 How to Run  
+## 🚀 How to Run
 
-**▶️ Compile and run the program**:
+Follow these steps to compile and run the program:
 
-```bash
+1. 🖥️ **Open your terminal or command prompt.**
+
+2. 📂 **Navigate to the `app` folder** where the source code (`main.c`) is located:
+
+   ```bash
+   cd app
+
+3. 🛠️ Compile the program using gcc:
+
 gcc -o student_manager main.c
+
+4. ▶️ Run the compiled program:
 ./student_manager
-```
