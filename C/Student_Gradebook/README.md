@@ -4,7 +4,6 @@
 
 A beginner-friendly **C** program to **add students**, **record grades**, **check highest & lowest marks**, and **determine pass/fail** status, using a simple text file (`student.csv`) to store all student records.
 
----
 
 ## 🧠 Features
 
@@ -15,7 +14,6 @@ A beginner-friendly **C** program to **add students**, **record grades**, **chec
 - 🎯 Avoid invalid or duplicate IDs with ID validation  
 - 📁 Store and read all records in a simple CSV text file
 
----
 
 ## 📸 Screenshots
 
@@ -31,7 +29,6 @@ A beginner-friendly **C** program to **add students**, **record grades**, **chec
 ### ✅ Pass/Fail Check  
 ![Pass Fail](assets/Outcome.png)
 
----
 
 ## 🚀 How to Run  
 
