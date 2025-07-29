@@ -1,4 +1,4 @@
-# 🏆 Student Grade Manager Project
+# 🏆 Student Grade Manager program
 
 A beginner-friendly **C** program to **add students**, **record grades**, **check highest & lowest marks**, and **determine pass/fail** status, using a simple text file (`student.csv`) to store all student records.
 
