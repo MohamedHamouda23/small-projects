@@ -47,5 +47,8 @@ Each record is stored in a file (`student.csv`), and the program applies input v
 
 ```bash
 git clone https://github.com/MohamedHamouda23/Student_Gradebook
-cd student-grade-manager
+```
+
+
+
 
