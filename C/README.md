@@ -9,27 +9,22 @@ This project was developed as a **personal learning exercise** during my self-st
 👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
 
 
-# 📁 Project Overview
+# 📁 Projects Overview
 
-This repository hosts a single **C language project** that simulates a **student grade management system**. It is a console-based application that uses CSV file storage and demonstrates the following concepts:
+This repository hosts C projectw, each designed to demonstrate fundamental programming concepts. Each project is self-contained with its own directory and README file explaining its purpose, features, and usage instructions.
 
-- ✅ User input handling  
-- 🧠 Data validation and struct usage  
-- 📁 File reading and writing  
-- 🔁 Menu-driven program logic
+## 🗂️ Included Projects
+
+### 💻 C Project:
+- 🎓 Student Grade Manager  
 
 
 # 🚀 Project
 
-## 🎓 Student Grade Manager (Personal Project)
+### 🎓 Student Grade Manager  
+A console-based C program that lets you add student records, check highest and lowest grades, and determine pass/fail status, with data saved in a CSV file and input validation included.  
 
-A console-based program written in C that allows you to:
-
-- Add a new student record (name 4 module grades)
-- Check the **highest and lowest** grade for a student
-- Determine if a student has **passed or failed**
-
-Each record is stored in a file (`student.csv`), and the program applies input validation and a basic grading system from A to F.
+More details: Student Grade Manager README.
 
 
 # 🛠 How to Use
