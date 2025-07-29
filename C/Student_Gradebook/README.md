@@ -42,11 +42,12 @@ Follow these steps to compile and run the program:
 3. 🛠️ Compile the program using gcc:
 
    ```bash
-gcc main.c -o output
+   gcc main.c -o output
+
     ```
 
 4. ▶️ Run the compiled program:
  
    ```bash
-./student_manager
+   ./student_manager
     ```
